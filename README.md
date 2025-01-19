@@ -31,6 +31,9 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - Laravel, Express.js
 - Node.js, NestJS
 
+<details>
+<summary><strong>Seen More</strong></summary>
+
 ### 📦 Tools & Platforms
 - WordPress, Git
 - Docker, Firebase
@@ -54,6 +57,7 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - API Development (REST, GraphQL)
 - PWA, Code Quality (ESLint, Prettier)
 
+</details>
 </details>
 
 ---
