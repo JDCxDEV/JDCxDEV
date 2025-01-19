@@ -29,12 +29,12 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 | Browser Automation:      | MySQL, PostgreSQL,          |
 | Puppeteer, Playwright    | MongoDB, Firebase Firestore |
 
-| ☁️ Cloud & DevOps       | 🎨 UI/UX Design              |
-|--------------------------|------------------------------|
-| AWS (EC2, S3, RDS),      | Figma, Adobe XD, Canva       |
-| DigitalOcean, Heroku,    | (Responsive Design,         |
-| GitHub Actions,          | WCAG Compliance)             |
-| Kubernetes, Docker Compose|                              |
+| ☁️ Cloud & DevOps       |
+|--------------------------|
+| AWS (EC2, S3, RDS),      |
+| DigitalOcean, Heroku,    |
+| GitHub Actions,          |
+| Kubernetes, Docker Compose|
 
 | 🔧 Additional Skills     |
 |--------------------------|
@@ -46,9 +46,11 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 
 ---
 
-## 📊 GitHub Stats | 📈 Top Languages
-|------------------|------------------|
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCxDEV&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCxDEV&layout=compact&theme=radical) |
+## 📊 GitHub Stats 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCxDEV&show_icons=true&theme=radical)
+
+## 📈 Top Languages 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCxDEV&layout=compact&theme=radical)
 
 ---
 
