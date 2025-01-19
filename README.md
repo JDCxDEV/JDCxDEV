@@ -7,11 +7,12 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 ## 📫 How to Reach Me:
 - **Email**: [jeremy.delacruz.dev@gmail.com](mailto:jeremy.delacruz.dev@gmail.com)
 - **Portfolio**: [jeremydelacruz.dev](https://jeremydelacruz.dev)
-- **LinkedIn**: [My linkedin profile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary><strong>🛠️ Tech Stack</strong></summary>
 
 ### 🌐 Languages
 - JavaScript (ES6+)
@@ -52,6 +53,8 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - SEO Optimization
 - API Development (REST, GraphQL)
 - PWA, Code Quality (ESLint, Prettier)
+
+</details>
 
 ---
 
