@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 
 <summary><strong>Show More</strong></summary>
 
+<details>
 ### 📦 Tools & Platforms
 - WordPress, Git
 - Docker, Firebase
@@ -52,8 +53,6 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - SEO Optimization
 - API Development (REST, GraphQL)
 - PWA, Code Quality (ESLint, Prettier)
-
-</details>
 </details>
 
 ---
