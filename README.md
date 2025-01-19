@@ -1,58 +1,55 @@
-## Hi there 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about building innovative and efficient solutions through code. Here's a bit about me:
+Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on building innovative solutions through code.
 
-- 📫 **How to reach me:** 
-  - Email: [youremail@example.com](mailto:jeremy.delacruz.dev@gmail.com)
-  - Portfolio: [yourwebsite.com](https://jeremydelacruz.dev)
-  - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
-
----
-
-### 🛠️ Tech Stack
-
-#### 🌐 Languages
-- JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, SCSS
-
-#### ⚛️ Frontend Frameworks & Libraries
-- Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Bootstrap
-
-#### ⚙️ Backend Frameworks
-- Laravel, Express.js, Node.js, NestJS
-
-#### 📦 Tools & Platforms
-- WordPress, Git, Docker, Firebase, Netlify, Vercel, AWS (S3, EC2)
-
-#### 🔍 Automation & Testing
-- **Browser Automation:** Puppeteer, Playwright
-- **Testing Tools:** Cypress
-
-#### 📂 Databases
-- MySQL, PostgreSQL, MongoDB, Firebase Firestore
-
-#### ☁️ Cloud & DevOps
-- AWS (EC2, S3, RDS), DigitalOcean, Heroku, GitHub Actions, Kubernetes, Docker Compose
-
-#### 🎨 UI/UX Design
-- Figma, Adobe XD, Canva
-- Focus on Responsive Design and Accessibility (WCAG Compliance)
-
-#### 🔧 Additional Skills
-- SEO Optimization (On-Page SEO, Answer Engine Optimization)
-- API Development (REST, GraphQL)
-- Progressive Web Apps (PWA)
-- Code Quality and Formatting (ESLint, Prettier)
+## 📫 How to reach me:
+- Email: [jeremy.delacruz.dev@gmail.com](mailto:jeremy.delacruz.dev@gmail.com)
+- Portfolio: [jeremydelacruz.dev](https://jeremydelacruz.dev)
+- LinkedIn: [linkedin.com/in/jeremy-dela-cruz-341331278](https://linkedin.com/in/jeremy-dela-cruz-341331278)
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCxDEV&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
+
+| 🌐 Languages            | ⚛️ Frontend                  |
+|-------------------------|------------------------------|
+| JavaScript (ES6+),      | Vue.js, Nuxt.js,             |
+| TypeScript, PHP,        | React.js, Next.js,           |
+| HTML5, CSS3, SCSS       | Tailwind CSS, Bootstrap      |
+
+| ⚙️ Backend              | 📦 Tools & Platforms         |
+|-------------------------|------------------------------|
+| Laravel, Express.js,    | WordPress, Git,              |
+| Node.js, NestJS         | Docker, Firebase,            |
+|                         | Netlify, Vercel,             |
+|                         | AWS (S3, EC2)                |
+
+| 🔍 Automation & Testing  | 📂 Databases                 |
+|--------------------------|-----------------------------|
+| Browser Automation:      | MySQL, PostgreSQL,          |
+| Puppeteer, Playwright    | MongoDB, Firebase Firestore |
+
+| ☁️ Cloud & DevOps       | 🎨 UI/UX Design              |
+|--------------------------|------------------------------|
+| AWS (EC2, S3, RDS),      | Figma, Adobe XD, Canva       |
+| DigitalOcean, Heroku,    | (Responsive Design,         |
+| GitHub Actions,          | WCAG Compliance)             |
+| Kubernetes, Docker Compose|                              |
+
+| 🔧 Additional Skills     |
+|--------------------------|
+| SEO Optimization,        |
+| API Development          |
+| (REST, GraphQL),         |
+| PWA, Code Quality        |
+| (ESLint, Prettier)       |
 
 ---
 
-### 📈 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCxDEV&layout=compact&theme=radical)
+## 📊 GitHub Stats | 📈 Top Languages
+|------------------|------------------|
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCxDEV&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCxDEV&layout=compact&theme=radical) |
 
 ---
 
-🌟 **Thanks for visiting my profile! Feel free to check out my projects and connect with me.**
+🌟 Thanks for visiting! Check out my projects and let's connect!
