@@ -14,22 +14,44 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 ## 🛠️ Tech Stack
 
 ### 🌐 Languages
-JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SCSS
+- JavaScript (ES6+)
+- TypeScript
+- PHP
+- HTML5
+- CSS3
+- SCSS
 
 ### ⚛️ Frontend
-React, Vue.js, Bootstrap, Tailwind CSS
+- Vue.js, Nuxt.js
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
 
 ### ⚙️ Backend
-Node.js, Laravel, Spring
+- Laravel, Express.js
+- Node.js, NestJS
+
+### 📦 Tools & Platforms
+- WordPress, Git
+- Docker, Firebase
+- Netlify, Vercel
+
+### 🔍 Automation & Testing
+- Puppeteer, Playwright
+- Browser Automation Tools
 
 ### 📂 Databases
-MySQL, PostgreSQL, MongoDB
+- MySQL, PostgreSQL
+- MongoDB, Firebase Firestore
 
 ### ☁️ Cloud & DevOps
-AWS (EC2, S3, RDS), Docker, Kubernetes, GitHub Actions
+- AWS (EC2, S3, RDS)
+- DigitalOcean, Heroku
+- GitHub Actions, Kubernetes, Docker Compose
 
-### 🔧 Additional Tools
-Git, Linux, Bash
+### 🔧 Additional Skills
+- SEO Optimization
+- API Development (REST, GraphQL)
+- PWA, Code Quality (ESLint, Prettier)
 
 ---
 
