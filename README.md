@@ -10,10 +10,7 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
 
 ---
-
-<details>
-<summary><strong>🛠️ Tech Stack</strong></summary>
-
+<strong>🛠️ Tech Stack</strong>
 ### 🌐 Languages
 - JavaScript (ES6+)
 - TypeScript
@@ -31,8 +28,7 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 - Laravel, Express.js
 - Node.js, NestJS
 
-<details>
-<summary><strong>Seen More</strong></summary>
+<summary><strong>Show More</strong></summary>
 
 ### 📦 Tools & Platforms
 - WordPress, Git
