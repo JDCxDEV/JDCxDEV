@@ -2,25 +2,46 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative and efficient solutions through code. Here's a bit about me:
 
-- 🔭 **I’m currently working on:** Exciting projects involving Nuxt.js, Vue.js, and WordPress integrations.
-- 🌱 **I’m currently learning:** Advanced backend development, API integrations, and serverless architecture.
-- 👯 **I’m looking to collaborate on:** Open-source projects and creative web development ideas.
-- 🤔 **I’m looking for help with:** Expanding my skills in machine learning and cloud computing.
-- 💬 **Ask me about:** Vue.js, Nuxt.js, WordPress, Laravel, and API development.
 - 📫 **How to reach me:** 
-  - Email: [youremail@example.com](mailto:youremail@example.com)
-  - Portfolio: [yourwebsite.com](https://yourwebsite.com)
-  - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** When I’m not coding, you’ll find me exploring new tech gadgets or hiking outdoors.
+  - Email: [youremail@example.com](mailto:jeremy.delacruz.dev@gmail.com)
+  - Portfolio: [yourwebsite.com](https://jeremydelacruz.dev)
+  - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
 
 ---
 
-### 🛠️ Tech Stack:
-- **Languages:** JavaScript (ES6+), PHP, HTML5, CSS3, SCSS
-- **Frameworks & Libraries:** Vue.js, Nuxt.js, Laravel, Tailwind CSS
-- **Tools & Platforms:** WordPress, Git, Docker, Firebase, Netlify
-- **Other Skills:** SEO Optimization, UI/UX Design, API Development
+### 🛠️ Tech Stack
+
+#### 🌐 Languages
+- JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, SCSS
+
+#### ⚛️ Frontend Frameworks & Libraries
+- Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Bootstrap
+
+#### ⚙️ Backend Frameworks
+- Laravel, Express.js, Node.js, NestJS
+
+#### 📦 Tools & Platforms
+- WordPress, Git, Docker, Firebase, Netlify, Vercel, AWS (S3, EC2)
+
+#### 🔍 Automation & Testing
+- **Browser Automation:** Puppeteer, Playwright
+- **Testing Tools:** Cypress
+
+#### 📂 Databases
+- MySQL, PostgreSQL, MongoDB, Firebase Firestore
+
+#### ☁️ Cloud & DevOps
+- AWS (EC2, S3, RDS), DigitalOcean, Heroku, GitHub Actions, Kubernetes, Docker Compose
+
+#### 🎨 UI/UX Design
+- Figma, Adobe XD, Canva
+- Focus on Responsive Design and Accessibility (WCAG Compliance)
+
+#### 🔧 Additional Skills
+- SEO Optimization (On-Page SEO, Answer Engine Optimization)
+- API Development (REST, GraphQL)
+- Progressive Web Apps (PWA)
+- Code Quality and Formatting (ESLint, Prettier)
 
 ---
 
