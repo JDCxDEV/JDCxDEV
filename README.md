@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 ## 📫 How to Reach Me:
 - **Email**: [jeremy.delacruz.dev@gmail.com](mailto:jeremy.delacruz.dev@gmail.com)
 - **Portfolio**: [jeremydelacruz.dev](https://jeremydelacruz.dev)
-- **LinkedIn**: [linkedin.com/in/jeremy-dela-cruz-341331278](https://linkedin.com/in/jeremy-dela-cruz-341331278)
+- **LinkedIn**: [My linkedin profile](https://linkedin.com/in/jeremy-dela-cruz-341331278)
 
 ---
 
@@ -57,11 +57,6 @@ Welcome to my GitHub profile! I'm Jeremy, a passionate developer focused on buil
 
 ## 📊 GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCxDEV&show_icons=true&theme=radical)
-
----
-
-## 📈 Top Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCxDEV&layout=compact&theme=radical)
 
 ---
 
